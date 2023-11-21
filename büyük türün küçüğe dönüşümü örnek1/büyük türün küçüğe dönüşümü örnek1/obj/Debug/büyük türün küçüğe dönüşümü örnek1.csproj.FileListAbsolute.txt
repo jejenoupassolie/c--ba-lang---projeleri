@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\büyük türün küçüğe dönüşümü örnek1\büyük türün küçüğe dönüşümü örnek1\bin\Debug\büyük türün küçüğe dönüşümü örnek1.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\büyük türün küçüğe dönüşümü örnek1\büyük türün küçüğe dönüşümü örnek1\bin\Debug\büyük türün küçüğe dönüşümü örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\büyük türün küçüğe dönüşümü örnek1\büyük türün küçüğe dönüşümü örnek1\bin\Debug\büyük türün küçüğe dönüşümü örnek1.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\büyük türün küçüğe dönüşümü örnek1\büyük türün küçüğe dönüşümü örnek1\obj\Debug\büyük türün küçüğe dönüşümü örnek1.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\büyük türün küçüğe dönüşümü örnek1\büyük türün küçüğe dönüşümü örnek1\obj\Debug\büyük türün küçüğe dönüşümü örnek1.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\büyük türün küçüğe dönüşümü örnek1\büyük türün küçüğe dönüşümü örnek1\obj\Debug\büyük türün küçüğe dönüşümü örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\büyük türün küçüğe dönüşümü örnek1\büyük türün küçüğe dönüşümü örnek1\obj\Debug\büyük türün küçüğe dönüşümü örnek1.pdb

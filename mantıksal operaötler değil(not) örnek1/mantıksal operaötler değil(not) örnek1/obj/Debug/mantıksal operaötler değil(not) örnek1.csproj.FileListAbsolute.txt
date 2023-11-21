@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operaötler değil(not) örnek1\mantıksal operaötler değil(not) örnek1\bin\Debug\mantıksal operaötler değil(not) örnek1.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operaötler değil(not) örnek1\mantıksal operaötler değil(not) örnek1\bin\Debug\mantıksal operaötler değil(not) örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operaötler değil(not) örnek1\mantıksal operaötler değil(not) örnek1\bin\Debug\mantıksal operaötler değil(not) örnek1.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operaötler değil(not) örnek1\mantıksal operaötler değil(not) örnek1\obj\Debug\mantıksal operaötler değil(not) örnek1.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operaötler değil(not) örnek1\mantıksal operaötler değil(not) örnek1\obj\Debug\mantıksal operaötler değil(not) örnek1.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operaötler değil(not) örnek1\mantıksal operaötler değil(not) örnek1\obj\Debug\mantıksal operaötler değil(not) örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operaötler değil(not) örnek1\mantıksal operaötler değil(not) örnek1\obj\Debug\mantıksal operaötler değil(not) örnek1.pdb

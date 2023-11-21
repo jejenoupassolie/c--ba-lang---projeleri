@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egzersiz1\for döngüsü egzersiz1\bin\Debug\for döngüsü egzersiz1.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egzersiz1\for döngüsü egzersiz1\bin\Debug\for döngüsü egzersiz1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egzersiz1\for döngüsü egzersiz1\bin\Debug\for döngüsü egzersiz1.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egzersiz1\for döngüsü egzersiz1\obj\Debug\for döngüsü egzersiz1.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egzersiz1\for döngüsü egzersiz1\obj\Debug\for döngüsü egzersiz1.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egzersiz1\for döngüsü egzersiz1\obj\Debug\for döngüsü egzersiz1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egzersiz1\for döngüsü egzersiz1\obj\Debug\for döngüsü egzersiz1.pdb

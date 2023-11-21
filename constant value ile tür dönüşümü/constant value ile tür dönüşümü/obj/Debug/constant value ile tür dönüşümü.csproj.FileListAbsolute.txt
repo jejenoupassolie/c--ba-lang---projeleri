@@ -1,0 +1,2 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\constant value ile tür dönüşümü\constant value ile tür dönüşümü\obj\Debug\constant value ile tür dönüşümü.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\constant value ile tür dönüşümü\constant value ile tür dönüşümü\obj\Debug\constant value ile tür dönüşümü.csproj.CoreCompileInputs.cache

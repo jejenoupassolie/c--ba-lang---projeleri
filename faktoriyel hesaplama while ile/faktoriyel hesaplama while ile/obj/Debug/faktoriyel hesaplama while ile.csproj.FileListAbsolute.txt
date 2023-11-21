@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\faktoriyel hesaplama while ile\faktoriyel hesaplama while ile\bin\Debug\faktoriyel hesaplama while ile.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\faktoriyel hesaplama while ile\faktoriyel hesaplama while ile\bin\Debug\faktoriyel hesaplama while ile.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\faktoriyel hesaplama while ile\faktoriyel hesaplama while ile\bin\Debug\faktoriyel hesaplama while ile.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\faktoriyel hesaplama while ile\faktoriyel hesaplama while ile\obj\Debug\faktoriyel hesaplama while ile.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\faktoriyel hesaplama while ile\faktoriyel hesaplama while ile\obj\Debug\faktoriyel hesaplama while ile.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\faktoriyel hesaplama while ile\faktoriyel hesaplama while ile\obj\Debug\faktoriyel hesaplama while ile.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\faktoriyel hesaplama while ile\faktoriyel hesaplama while ile\obj\Debug\faktoriyel hesaplama while ile.pdb

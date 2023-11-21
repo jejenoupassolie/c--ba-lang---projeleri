@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\system.arrays örnek1\system.arrays örnek1\bin\Debug\system.arrays örnek1.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\system.arrays örnek1\system.arrays örnek1\bin\Debug\system.arrays örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\system.arrays örnek1\system.arrays örnek1\bin\Debug\system.arrays örnek1.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\system.arrays örnek1\system.arrays örnek1\obj\Debug\system.arrays örnek1.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\system.arrays örnek1\system.arrays örnek1\obj\Debug\system.arrays örnek1.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\system.arrays örnek1\system.arrays örnek1\obj\Debug\system.arrays örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\system.arrays örnek1\system.arrays örnek1\obj\Debug\system.arrays örnek1.pdb

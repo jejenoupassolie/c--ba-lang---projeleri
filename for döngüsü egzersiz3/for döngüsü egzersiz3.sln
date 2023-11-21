@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for döngüsü egzersiz3", "for döngüsü egzersiz3\for döngüsü egzersiz3.csproj", "{CEF9F33D-54A4-4485-BBA7-01E87289C513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF9F33D-54A4-4485-BBA7-01E87289C513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF9F33D-54A4-4485-BBA7-01E87289C513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF9F33D-54A4-4485-BBA7-01E87289C513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF9F33D-54A4-4485-BBA7-01E87289C513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90911D38-C166-4EC6-A120-4DB7FB758513}
+	EndGlobalSection
+EndGlobal

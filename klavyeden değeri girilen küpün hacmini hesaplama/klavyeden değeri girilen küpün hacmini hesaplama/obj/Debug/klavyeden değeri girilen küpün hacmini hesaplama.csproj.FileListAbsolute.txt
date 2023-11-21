@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\klavyeden değeri girilen küpün hacmini hesaplama\klavyeden değeri girilen küpün hacmini hesaplama\obj\Debug\klavyeden değeri girilen küpün hacmini hesaplama.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\klavyeden değeri girilen küpün hacmini hesaplama\klavyeden değeri girilen küpün hacmini hesaplama\obj\Debug\klavyeden değeri girilen küpün hacmini hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\klavyeden değeri girilen küpün hacmini hesaplama\klavyeden değeri girilen küpün hacmini hesaplama\bin\Debug\klavyeden değeri girilen küpün hacmini hesaplama.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\klavyeden değeri girilen küpün hacmini hesaplama\klavyeden değeri girilen küpün hacmini hesaplama\bin\Debug\klavyeden değeri girilen küpün hacmini hesaplama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\klavyeden değeri girilen küpün hacmini hesaplama\klavyeden değeri girilen küpün hacmini hesaplama\bin\Debug\klavyeden değeri girilen küpün hacmini hesaplama.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\klavyeden değeri girilen küpün hacmini hesaplama\klavyeden değeri girilen küpün hacmini hesaplama\obj\Debug\klavyeden değeri girilen küpün hacmini hesaplama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\klavyeden değeri girilen küpün hacmini hesaplama\klavyeden değeri girilen küpün hacmini hesaplama\obj\Debug\klavyeden değeri girilen küpün hacmini hesaplama.pdb

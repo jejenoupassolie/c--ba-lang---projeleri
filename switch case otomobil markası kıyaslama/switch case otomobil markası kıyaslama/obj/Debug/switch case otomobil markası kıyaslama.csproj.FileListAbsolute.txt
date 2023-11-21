@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case otomobil markası kıyaslama\switch case otomobil markası kıyaslama\bin\Debug\switch case otomobil markası kıyaslama.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case otomobil markası kıyaslama\switch case otomobil markası kıyaslama\bin\Debug\switch case otomobil markası kıyaslama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case otomobil markası kıyaslama\switch case otomobil markası kıyaslama\bin\Debug\switch case otomobil markası kıyaslama.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case otomobil markası kıyaslama\switch case otomobil markası kıyaslama\obj\Debug\switch case otomobil markası kıyaslama.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case otomobil markası kıyaslama\switch case otomobil markası kıyaslama\obj\Debug\switch case otomobil markası kıyaslama.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case otomobil markası kıyaslama\switch case otomobil markası kıyaslama\obj\Debug\switch case otomobil markası kıyaslama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case otomobil markası kıyaslama\switch case otomobil markası kıyaslama\obj\Debug\switch case otomobil markası kıyaslama.pdb

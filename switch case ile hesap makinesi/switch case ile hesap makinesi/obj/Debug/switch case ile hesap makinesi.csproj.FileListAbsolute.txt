@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ile hesap makinesi\switch case ile hesap makinesi\bin\Debug\switch case ile hesap makinesi.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ile hesap makinesi\switch case ile hesap makinesi\bin\Debug\switch case ile hesap makinesi.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ile hesap makinesi\switch case ile hesap makinesi\bin\Debug\switch case ile hesap makinesi.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ile hesap makinesi\switch case ile hesap makinesi\obj\Debug\switch case ile hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ile hesap makinesi\switch case ile hesap makinesi\obj\Debug\switch case ile hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ile hesap makinesi\switch case ile hesap makinesi\obj\Debug\switch case ile hesap makinesi.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ile hesap makinesi\switch case ile hesap makinesi\obj\Debug\switch case ile hesap makinesi.pdb

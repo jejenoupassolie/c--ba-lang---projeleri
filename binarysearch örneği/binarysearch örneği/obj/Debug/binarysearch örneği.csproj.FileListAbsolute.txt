@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\binarysearch örneği\binarysearch örneği\bin\Debug\binarysearch örneği.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\binarysearch örneği\binarysearch örneği\bin\Debug\binarysearch örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\binarysearch örneği\binarysearch örneği\bin\Debug\binarysearch örneği.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\binarysearch örneği\binarysearch örneği\obj\Debug\binarysearch örneği.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\binarysearch örneği\binarysearch örneği\obj\Debug\binarysearch örneği.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\binarysearch örneği\binarysearch örneği\obj\Debug\binarysearch örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\binarysearch örneği\binarysearch örneği\obj\Debug\binarysearch örneği.pdb

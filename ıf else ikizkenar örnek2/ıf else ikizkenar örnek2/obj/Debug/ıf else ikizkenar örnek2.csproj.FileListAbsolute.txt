@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else ikizkenar örnek2\ıf else ikizkenar örnek2\bin\Debug\ıf else ikizkenar örnek2.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else ikizkenar örnek2\ıf else ikizkenar örnek2\bin\Debug\ıf else ikizkenar örnek2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else ikizkenar örnek2\ıf else ikizkenar örnek2\bin\Debug\ıf else ikizkenar örnek2.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else ikizkenar örnek2\ıf else ikizkenar örnek2\obj\Debug\ıf else ikizkenar örnek2.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else ikizkenar örnek2\ıf else ikizkenar örnek2\obj\Debug\ıf else ikizkenar örnek2.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else ikizkenar örnek2\ıf else ikizkenar örnek2\obj\Debug\ıf else ikizkenar örnek2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else ikizkenar örnek2\ıf else ikizkenar örnek2\obj\Debug\ıf else ikizkenar örnek2.pdb

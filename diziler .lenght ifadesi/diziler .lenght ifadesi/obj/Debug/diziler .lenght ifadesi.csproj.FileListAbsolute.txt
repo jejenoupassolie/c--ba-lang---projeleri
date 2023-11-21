@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler .lenght ifadesi\diziler .lenght ifadesi\bin\Debug\diziler.lenght_ifadesi.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler .lenght ifadesi\diziler .lenght ifadesi\bin\Debug\diziler.lenght_ifadesi.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler .lenght ifadesi\diziler .lenght ifadesi\bin\Debug\diziler.lenght_ifadesi.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler .lenght ifadesi\diziler .lenght ifadesi\obj\Debug\diziler .lenght ifadesi.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler .lenght ifadesi\diziler .lenght ifadesi\obj\Debug\diziler .lenght ifadesi.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler .lenght ifadesi\diziler .lenght ifadesi\obj\Debug\diziler.lenght_ifadesi.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler .lenght ifadesi\diziler .lenght ifadesi\obj\Debug\diziler.lenght_ifadesi.pdb

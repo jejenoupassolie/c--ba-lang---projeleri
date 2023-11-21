@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\tek boyutlu dizi örneği günler\tek boyutlu dizi örneği günler\bin\Debug\tek boyutlu dizi örneği günler.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\tek boyutlu dizi örneği günler\tek boyutlu dizi örneği günler\bin\Debug\tek boyutlu dizi örneği günler.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\tek boyutlu dizi örneği günler\tek boyutlu dizi örneği günler\bin\Debug\tek boyutlu dizi örneği günler.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\tek boyutlu dizi örneği günler\tek boyutlu dizi örneği günler\obj\Debug\tek boyutlu dizi örneği günler.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\tek boyutlu dizi örneği günler\tek boyutlu dizi örneği günler\obj\Debug\tek boyutlu dizi örneği günler.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\tek boyutlu dizi örneği günler\tek boyutlu dizi örneği günler\obj\Debug\tek boyutlu dizi örneği günler.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\tek boyutlu dizi örneği günler\tek boyutlu dizi örneği günler\obj\Debug\tek boyutlu dizi örneği günler.pdb

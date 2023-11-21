@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\aritmetik operatörler örnek1\aritmetik operatörler örnek1\bin\Debug\aritmetik operatörler örnek1.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\aritmetik operatörler örnek1\aritmetik operatörler örnek1\bin\Debug\aritmetik operatörler örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\aritmetik operatörler örnek1\aritmetik operatörler örnek1\bin\Debug\aritmetik operatörler örnek1.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\aritmetik operatörler örnek1\aritmetik operatörler örnek1\obj\Debug\aritmetik operatörler örnek1.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\aritmetik operatörler örnek1\aritmetik operatörler örnek1\obj\Debug\aritmetik operatörler örnek1.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\aritmetik operatörler örnek1\aritmetik operatörler örnek1\obj\Debug\aritmetik operatörler örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\aritmetik operatörler örnek1\aritmetik operatörler örnek1\obj\Debug\aritmetik operatörler örnek1.pdb

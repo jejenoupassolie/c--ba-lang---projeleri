@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToString ile tür dönüşümü örnek2", "ToString ile tür dönüşümü örnek2\ToString ile tür dönüşümü örnek2.csproj", "{B39F174E-75C3-4265-8904-B526A21D9721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39F174E-75C3-4265-8904-B526A21D9721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39F174E-75C3-4265-8904-B526A21D9721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39F174E-75C3-4265-8904-B526A21D9721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39F174E-75C3-4265-8904-B526A21D9721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74E3CBDA-8A5B-44D3-8F7B-BEA7B866689C}
+	EndGlobalSection
+EndGlobal

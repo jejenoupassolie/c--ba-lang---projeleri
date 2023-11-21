@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\düzensiz diziler örnek\düzensiz diziler örnek\bin\Debug\düzensiz diziler örnek.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\düzensiz diziler örnek\düzensiz diziler örnek\bin\Debug\düzensiz diziler örnek.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\düzensiz diziler örnek\düzensiz diziler örnek\bin\Debug\düzensiz diziler örnek.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\düzensiz diziler örnek\düzensiz diziler örnek\obj\Debug\düzensiz diziler örnek.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\düzensiz diziler örnek\düzensiz diziler örnek\obj\Debug\düzensiz diziler örnek.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\düzensiz diziler örnek\düzensiz diziler örnek\obj\Debug\düzensiz diziler örnek.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\düzensiz diziler örnek\düzensiz diziler örnek\obj\Debug\düzensiz diziler örnek.pdb

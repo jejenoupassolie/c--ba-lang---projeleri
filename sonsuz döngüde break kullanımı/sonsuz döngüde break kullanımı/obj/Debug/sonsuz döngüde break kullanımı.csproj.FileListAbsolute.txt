@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\sonsuz döngüde break kullanımı\sonsuz döngüde break kullanımı\bin\Debug\sonsuz döngüde break kullanımı.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\sonsuz döngüde break kullanımı\sonsuz döngüde break kullanımı\bin\Debug\sonsuz döngüde break kullanımı.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\sonsuz döngüde break kullanımı\sonsuz döngüde break kullanımı\bin\Debug\sonsuz döngüde break kullanımı.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\sonsuz döngüde break kullanımı\sonsuz döngüde break kullanımı\obj\Debug\sonsuz döngüde break kullanımı.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\sonsuz döngüde break kullanımı\sonsuz döngüde break kullanımı\obj\Debug\sonsuz döngüde break kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\sonsuz döngüde break kullanımı\sonsuz döngüde break kullanımı\obj\Debug\sonsuz döngüde break kullanımı.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\sonsuz döngüde break kullanımı\sonsuz döngüde break kullanımı\obj\Debug\sonsuz döngüde break kullanımı.pdb

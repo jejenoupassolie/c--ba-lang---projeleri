@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler örnek uygulama2\diziler örnek uygulama2\bin\Debug\diziler örnek uygulama2.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler örnek uygulama2\diziler örnek uygulama2\bin\Debug\diziler örnek uygulama2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler örnek uygulama2\diziler örnek uygulama2\bin\Debug\diziler örnek uygulama2.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler örnek uygulama2\diziler örnek uygulama2\obj\Debug\diziler örnek uygulama2.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler örnek uygulama2\diziler örnek uygulama2\obj\Debug\diziler örnek uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler örnek uygulama2\diziler örnek uygulama2\obj\Debug\diziler örnek uygulama2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\diziler örnek uygulama2\diziler örnek uygulama2\obj\Debug\diziler örnek uygulama2.pdb

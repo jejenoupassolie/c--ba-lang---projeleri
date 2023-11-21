@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\dizilerde foreach döngüsü\dizilerde foreach döngüsü\bin\Debug\dizilerde foreach döngüsü.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\dizilerde foreach döngüsü\dizilerde foreach döngüsü\bin\Debug\dizilerde foreach döngüsü.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\dizilerde foreach döngüsü\dizilerde foreach döngüsü\bin\Debug\dizilerde foreach döngüsü.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\dizilerde foreach döngüsü\dizilerde foreach döngüsü\obj\Debug\dizilerde foreach döngüsü.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\dizilerde foreach döngüsü\dizilerde foreach döngüsü\obj\Debug\dizilerde foreach döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\dizilerde foreach döngüsü\dizilerde foreach döngüsü\obj\Debug\dizilerde foreach döngüsü.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\dizilerde foreach döngüsü\dizilerde foreach döngüsü\obj\Debug\dizilerde foreach döngüsü.pdb

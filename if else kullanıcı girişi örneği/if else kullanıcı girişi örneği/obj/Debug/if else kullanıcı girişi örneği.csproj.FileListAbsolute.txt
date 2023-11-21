@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else kullanıcı girişi örneği\if else kullanıcı girişi örneği\obj\Debug\if else kullanıcı girişi örneği.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else kullanıcı girişi örneği\if else kullanıcı girişi örneği\obj\Debug\if else kullanıcı girişi örneği.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else kullanıcı girişi örneği\if else kullanıcı girişi örneği\bin\Debug\if else kullanıcı girişi örneği.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else kullanıcı girişi örneği\if else kullanıcı girişi örneği\bin\Debug\if else kullanıcı girişi örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else kullanıcı girişi örneği\if else kullanıcı girişi örneği\bin\Debug\if else kullanıcı girişi örneği.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else kullanıcı girişi örneği\if else kullanıcı girişi örneği\obj\Debug\if else kullanıcı girişi örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else kullanıcı girişi örneği\if else kullanıcı girişi örneği\obj\Debug\if else kullanıcı girişi örneği.pdb

@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\console.readline da int dönüşümü\console.readline da int dönüşümü\obj\Debug\console.readline da int dönüşümü.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\console.readline da int dönüşümü\console.readline da int dönüşümü\obj\Debug\console.readline da int dönüşümü.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\console.readline da int dönüşümü\console.readline da int dönüşümü\bin\Debug\console.readline da int dönüşümü.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\console.readline da int dönüşümü\console.readline da int dönüşümü\bin\Debug\console.readline da int dönüşümü.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\console.readline da int dönüşümü\console.readline da int dönüşümü\bin\Debug\console.readline da int dönüşümü.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\console.readline da int dönüşümü\console.readline da int dönüşümü\obj\Debug\console.readline da int dönüşümü.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\console.readline da int dönüşümü\console.readline da int dönüşümü\obj\Debug\console.readline da int dönüşümü.pdb

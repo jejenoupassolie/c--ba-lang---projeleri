@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while ile eşkenar üçgen oluşturma\do while ile eşkenar üçgen oluşturma\bin\Debug\do while ile eşkenar üçgen oluşturma.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while ile eşkenar üçgen oluşturma\do while ile eşkenar üçgen oluşturma\bin\Debug\do while ile eşkenar üçgen oluşturma.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while ile eşkenar üçgen oluşturma\do while ile eşkenar üçgen oluşturma\bin\Debug\do while ile eşkenar üçgen oluşturma.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while ile eşkenar üçgen oluşturma\do while ile eşkenar üçgen oluşturma\obj\Debug\do while ile eşkenar üçgen oluşturma.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while ile eşkenar üçgen oluşturma\do while ile eşkenar üçgen oluşturma\obj\Debug\do while ile eşkenar üçgen oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while ile eşkenar üçgen oluşturma\do while ile eşkenar üçgen oluşturma\obj\Debug\do while ile eşkenar üçgen oluşturma.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while ile eşkenar üçgen oluşturma\do while ile eşkenar üçgen oluşturma\obj\Debug\do while ile eşkenar üçgen oluşturma.pdb

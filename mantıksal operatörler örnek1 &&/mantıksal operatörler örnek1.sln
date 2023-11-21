@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mantıksal operatörler örnek1", "mantıksal operatörler örnek1\mantıksal operatörler örnek1.csproj", "{ECE1419E-FBEE-4286-AE73-E459F1BAF743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE1419E-FBEE-4286-AE73-E459F1BAF743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE1419E-FBEE-4286-AE73-E459F1BAF743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE1419E-FBEE-4286-AE73-E459F1BAF743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE1419E-FBEE-4286-AE73-E459F1BAF743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7009D6-18CB-4613-BBC9-715AEEA0063A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for dögüsü egzersiz2\for dögüsü egzersiz2\bin\Debug\for dögüsü egzersiz2.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for dögüsü egzersiz2\for dögüsü egzersiz2\bin\Debug\for dögüsü egzersiz2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for dögüsü egzersiz2\for dögüsü egzersiz2\bin\Debug\for dögüsü egzersiz2.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for dögüsü egzersiz2\for dögüsü egzersiz2\obj\Debug\for dögüsü egzersiz2.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for dögüsü egzersiz2\for dögüsü egzersiz2\obj\Debug\for dögüsü egzersiz2.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for dögüsü egzersiz2\for dögüsü egzersiz2\obj\Debug\for dögüsü egzersiz2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for dögüsü egzersiz2\for dögüsü egzersiz2\obj\Debug\for dögüsü egzersiz2.pdb

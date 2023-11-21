@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\atama operatörleri örnek1\atama operatörleri örnek1\bin\Debug\atama operatörleri örnek1.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\atama operatörleri örnek1\atama operatörleri örnek1\bin\Debug\atama operatörleri örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\atama operatörleri örnek1\atama operatörleri örnek1\bin\Debug\atama operatörleri örnek1.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\atama operatörleri örnek1\atama operatörleri örnek1\obj\Debug\atama operatörleri örnek1.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\atama operatörleri örnek1\atama operatörleri örnek1\obj\Debug\atama operatörleri örnek1.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\atama operatörleri örnek1\atama operatörleri örnek1\obj\Debug\atama operatörleri örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\atama operatörleri örnek1\atama operatörleri örnek1\obj\Debug\atama operatörleri örnek1.pdb

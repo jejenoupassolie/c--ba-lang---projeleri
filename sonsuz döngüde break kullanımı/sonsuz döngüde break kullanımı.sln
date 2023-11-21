@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sonsuz döngüde break kullanımı", "sonsuz döngüde break kullanımı\sonsuz döngüde break kullanımı.csproj", "{6AD41C6A-1B3E-4521-9383-6A1A58F00B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD41C6A-1B3E-4521-9383-6A1A58F00B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD41C6A-1B3E-4521-9383-6A1A58F00B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD41C6A-1B3E-4521-9383-6A1A58F00B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD41C6A-1B3E-4521-9383-6A1A58F00B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8EC5EF-DBCA-475F-9522-904F56E29F90}
+	EndGlobalSection
+EndGlobal

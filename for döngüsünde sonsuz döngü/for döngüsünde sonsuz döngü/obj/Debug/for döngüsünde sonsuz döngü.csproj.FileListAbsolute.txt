@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsünde sonsuz döngü\for döngüsünde sonsuz döngü\bin\Debug\for döngüsünde sonsuz döngü.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsünde sonsuz döngü\for döngüsünde sonsuz döngü\bin\Debug\for döngüsünde sonsuz döngü.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsünde sonsuz döngü\for döngüsünde sonsuz döngü\bin\Debug\for döngüsünde sonsuz döngü.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsünde sonsuz döngü\for döngüsünde sonsuz döngü\obj\Debug\for döngüsünde sonsuz döngü.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsünde sonsuz döngü\for döngüsünde sonsuz döngü\obj\Debug\for döngüsünde sonsuz döngü.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsünde sonsuz döngü\for döngüsünde sonsuz döngü\obj\Debug\for döngüsünde sonsuz döngü.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsünde sonsuz döngü\for döngüsünde sonsuz döngü\obj\Debug\for döngüsünde sonsuz döngü.pdb

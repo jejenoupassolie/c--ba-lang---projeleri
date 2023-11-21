@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else örnek uygulama sınav nıotu\if else örnek uygulama sınav nıotu\bin\Debug\if else örnek uygulama sınav nıotu.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else örnek uygulama sınav nıotu\if else örnek uygulama sınav nıotu\bin\Debug\if else örnek uygulama sınav nıotu.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else örnek uygulama sınav nıotu\if else örnek uygulama sınav nıotu\bin\Debug\if else örnek uygulama sınav nıotu.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else örnek uygulama sınav nıotu\if else örnek uygulama sınav nıotu\obj\Debug\if else örnek uygulama sınav nıotu.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else örnek uygulama sınav nıotu\if else örnek uygulama sınav nıotu\obj\Debug\if else örnek uygulama sınav nıotu.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else örnek uygulama sınav nıotu\if else örnek uygulama sınav nıotu\obj\Debug\if else örnek uygulama sınav nıotu.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if else örnek uygulama sınav nıotu\if else örnek uygulama sınav nıotu\obj\Debug\if else örnek uygulama sınav nıotu.pdb

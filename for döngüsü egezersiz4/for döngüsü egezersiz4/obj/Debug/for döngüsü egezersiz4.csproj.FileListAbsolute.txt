@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egezersiz4\for döngüsü egezersiz4\obj\Debug\for döngüsü egezersiz4.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egezersiz4\for döngüsü egezersiz4\obj\Debug\for döngüsü egezersiz4.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egezersiz4\for döngüsü egezersiz4\bin\Debug\for döngüsü egezersiz4.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egezersiz4\for döngüsü egezersiz4\bin\Debug\for döngüsü egezersiz4.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egezersiz4\for döngüsü egezersiz4\bin\Debug\for döngüsü egezersiz4.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egezersiz4\for döngüsü egezersiz4\obj\Debug\for döngüsü egezersiz4.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü egezersiz4\for döngüsü egezersiz4\obj\Debug\for döngüsü egezersiz4.pdb

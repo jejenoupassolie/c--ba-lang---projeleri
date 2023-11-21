@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ve if ile sinema bileti satış sistemi\switch case ve if ile sinema bileti satış sistemi\obj\Debug\switch case ve if ile sinema bileti satış sistemi.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ve if ile sinema bileti satış sistemi\switch case ve if ile sinema bileti satış sistemi\obj\Debug\switch case ve if ile sinema bileti satış sistemi.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ve if ile sinema bileti satış sistemi\switch case ve if ile sinema bileti satış sistemi\bin\Debug\switch case ve if ile sinema bileti satış sistemi.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ve if ile sinema bileti satış sistemi\switch case ve if ile sinema bileti satış sistemi\bin\Debug\switch case ve if ile sinema bileti satış sistemi.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ve if ile sinema bileti satış sistemi\switch case ve if ile sinema bileti satış sistemi\bin\Debug\switch case ve if ile sinema bileti satış sistemi.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ve if ile sinema bileti satış sistemi\switch case ve if ile sinema bileti satış sistemi\obj\Debug\switch case ve if ile sinema bileti satış sistemi.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\switch case ve if ile sinema bileti satış sistemi\switch case ve if ile sinema bileti satış sistemi\obj\Debug\switch case ve if ile sinema bileti satış sistemi.pdb

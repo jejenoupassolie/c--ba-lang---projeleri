@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\copyto ve array.copy örneği\copyto ve array.copy örneği\bin\Debug\copyto ve array.copy örneği.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\copyto ve array.copy örneği\copyto ve array.copy örneği\bin\Debug\copyto ve array.copy örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\copyto ve array.copy örneği\copyto ve array.copy örneği\bin\Debug\copyto ve array.copy örneği.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\copyto ve array.copy örneği\copyto ve array.copy örneği\obj\Debug\copyto ve array.copy örneği.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\copyto ve array.copy örneği\copyto ve array.copy örneği\obj\Debug\copyto ve array.copy örneği.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\copyto ve array.copy örneği\copyto ve array.copy örneği\obj\Debug\copyto ve array.copy örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\copyto ve array.copy örneği\copyto ve array.copy örneği\obj\Debug\copyto ve array.copy örneği.pdb

@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\while uygulama egzersizi2\while uygulama egzersizi2\bin\Debug\while uygulama egzersizi2.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\while uygulama egzersizi2\while uygulama egzersizi2\bin\Debug\while uygulama egzersizi2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\while uygulama egzersizi2\while uygulama egzersizi2\bin\Debug\while uygulama egzersizi2.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\while uygulama egzersizi2\while uygulama egzersizi2\obj\Debug\while uygulama egzersizi2.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\while uygulama egzersizi2\while uygulama egzersizi2\obj\Debug\while uygulama egzersizi2.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\while uygulama egzersizi2\while uygulama egzersizi2\obj\Debug\while uygulama egzersizi2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\while uygulama egzersizi2\while uygulama egzersizi2\obj\Debug\while uygulama egzersizi2.pdb

@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else örnek1 ortalama hesaplama\ıf else örnek1 ortalama hesaplama\bin\Debug\ıf else örnek1 ortalama hesaplama.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else örnek1 ortalama hesaplama\ıf else örnek1 ortalama hesaplama\bin\Debug\ıf else örnek1 ortalama hesaplama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else örnek1 ortalama hesaplama\ıf else örnek1 ortalama hesaplama\bin\Debug\ıf else örnek1 ortalama hesaplama.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else örnek1 ortalama hesaplama\ıf else örnek1 ortalama hesaplama\obj\Debug\ıf else örnek1 ortalama hesaplama.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else örnek1 ortalama hesaplama\ıf else örnek1 ortalama hesaplama\obj\Debug\ıf else örnek1 ortalama hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else örnek1 ortalama hesaplama\ıf else örnek1 ortalama hesaplama\obj\Debug\ıf else örnek1 ortalama hesaplama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ıf else örnek1 ortalama hesaplama\ıf else örnek1 ortalama hesaplama\obj\Debug\ıf else örnek1 ortalama hesaplama.pdb

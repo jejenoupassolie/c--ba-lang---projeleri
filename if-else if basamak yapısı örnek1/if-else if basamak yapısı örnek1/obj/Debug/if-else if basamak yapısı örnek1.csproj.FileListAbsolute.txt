@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if-else if basamak yapısı örnek1\if-else if basamak yapısı örnek1\bin\Debug\if-else if basamak yapısı örnek1.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if-else if basamak yapısı örnek1\if-else if basamak yapısı örnek1\bin\Debug\if-else if basamak yapısı örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if-else if basamak yapısı örnek1\if-else if basamak yapısı örnek1\bin\Debug\if-else if basamak yapısı örnek1.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if-else if basamak yapısı örnek1\if-else if basamak yapısı örnek1\obj\Debug\if-else if basamak yapısı örnek1.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if-else if basamak yapısı örnek1\if-else if basamak yapısı örnek1\obj\Debug\if-else if basamak yapısı örnek1.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if-else if basamak yapısı örnek1\if-else if basamak yapısı örnek1\obj\Debug\if-else if basamak yapısı örnek1.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\if-else if basamak yapısı örnek1\if-else if basamak yapısı örnek1\obj\Debug\if-else if basamak yapısı örnek1.pdb

@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayındexof örneği\arrayındexof örneği\bin\Debug\arrayındexof örneği.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayındexof örneği\arrayındexof örneği\bin\Debug\arrayındexof örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayındexof örneği\arrayındexof örneği\bin\Debug\arrayındexof örneği.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayındexof örneği\arrayındexof örneği\obj\Debug\arrayındexof örneği.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayındexof örneği\arrayındexof örneği\obj\Debug\arrayındexof örneği.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayındexof örneği\arrayındexof örneği\obj\Debug\arrayındexof örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayındexof örneği\arrayındexof örneği\obj\Debug\arrayındexof örneği.pdb

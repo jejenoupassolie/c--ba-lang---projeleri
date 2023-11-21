@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\çoklu diziler örnek uygulama\çoklu diziler örnek uygulama\bin\Debug\çoklu diziler örnek uygulama.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\çoklu diziler örnek uygulama\çoklu diziler örnek uygulama\bin\Debug\çoklu diziler örnek uygulama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\çoklu diziler örnek uygulama\çoklu diziler örnek uygulama\bin\Debug\çoklu diziler örnek uygulama.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\çoklu diziler örnek uygulama\çoklu diziler örnek uygulama\obj\Debug\çoklu diziler örnek uygulama.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\çoklu diziler örnek uygulama\çoklu diziler örnek uygulama\obj\Debug\çoklu diziler örnek uygulama.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\çoklu diziler örnek uygulama\çoklu diziler örnek uygulama\obj\Debug\çoklu diziler örnek uygulama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\çoklu diziler örnek uygulama\çoklu diziler örnek uygulama\obj\Debug\çoklu diziler örnek uygulama.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "çoklu diziler örnek uygulama", "çoklu diziler örnek uygulama\çoklu diziler örnek uygulama.csproj", "{F755B628-CF6D-4F4E-970B-6D6478C7DA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F755B628-CF6D-4F4E-970B-6D6478C7DA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F755B628-CF6D-4F4E-970B-6D6478C7DA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F755B628-CF6D-4F4E-970B-6D6478C7DA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F755B628-CF6D-4F4E-970B-6D6478C7DA37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356D0AEB-4738-4294-900F-FB0C5D37C201}
+	EndGlobalSection
+EndGlobal

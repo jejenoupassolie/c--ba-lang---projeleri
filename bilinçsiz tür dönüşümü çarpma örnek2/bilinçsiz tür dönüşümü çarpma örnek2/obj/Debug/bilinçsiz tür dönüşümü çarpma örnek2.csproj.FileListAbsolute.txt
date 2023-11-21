@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\bilinçsiz tür dönüşümü çarpma örnek2\bilinçsiz tür dönüşümü çarpma örnek2\bin\Debug\bilinçsiz tür dönüşümü çarpma örnek2.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\bilinçsiz tür dönüşümü çarpma örnek2\bilinçsiz tür dönüşümü çarpma örnek2\bin\Debug\bilinçsiz tür dönüşümü çarpma örnek2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\bilinçsiz tür dönüşümü çarpma örnek2\bilinçsiz tür dönüşümü çarpma örnek2\bin\Debug\bilinçsiz tür dönüşümü çarpma örnek2.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\bilinçsiz tür dönüşümü çarpma örnek2\bilinçsiz tür dönüşümü çarpma örnek2\obj\Debug\bilinçsiz tür dönüşümü çarpma örnek2.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\bilinçsiz tür dönüşümü çarpma örnek2\bilinçsiz tür dönüşümü çarpma örnek2\obj\Debug\bilinçsiz tür dönüşümü çarpma örnek2.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\bilinçsiz tür dönüşümü çarpma örnek2\bilinçsiz tür dönüşümü çarpma örnek2\obj\Debug\bilinçsiz tür dönüşümü çarpma örnek2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\bilinçsiz tür dönüşümü çarpma örnek2\bilinçsiz tür dönüşümü çarpma örnek2\obj\Debug\bilinçsiz tür dönüşümü çarpma örnek2.pdb

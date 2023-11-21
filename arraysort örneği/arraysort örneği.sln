@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraysort örneği", "arraysort örneği\arraysort örneği.csproj", "{9C760EED-38D2-4D93-A0BD-53714EE7F702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C760EED-38D2-4D93-A0BD-53714EE7F702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C760EED-38D2-4D93-A0BD-53714EE7F702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C760EED-38D2-4D93-A0BD-53714EE7F702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C760EED-38D2-4D93-A0BD-53714EE7F702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB3A34C3-0F1C-4655-A1A9-176B169D460C}
+	EndGlobalSection
+EndGlobal

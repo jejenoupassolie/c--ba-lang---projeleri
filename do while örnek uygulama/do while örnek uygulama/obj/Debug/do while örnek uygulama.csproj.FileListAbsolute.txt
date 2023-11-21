@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while örnek uygulama\do while örnek uygulama\bin\Debug\do while örnek uygulama.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while örnek uygulama\do while örnek uygulama\bin\Debug\do while örnek uygulama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while örnek uygulama\do while örnek uygulama\bin\Debug\do while örnek uygulama.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while örnek uygulama\do while örnek uygulama\obj\Debug\do while örnek uygulama.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while örnek uygulama\do while örnek uygulama\obj\Debug\do while örnek uygulama.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while örnek uygulama\do while örnek uygulama\obj\Debug\do while örnek uygulama.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\do while örnek uygulama\do while örnek uygulama\obj\Debug\do while örnek uygulama.pdb

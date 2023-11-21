@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü boş bırakılan parametre örneği\for döngüsü boş bırakılan parametre örneği\bin\Debug\for döngüsü boş bırakılan parametre örneği.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü boş bırakılan parametre örneği\for döngüsü boş bırakılan parametre örneği\bin\Debug\for döngüsü boş bırakılan parametre örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü boş bırakılan parametre örneği\for döngüsü boş bırakılan parametre örneği\bin\Debug\for döngüsü boş bırakılan parametre örneği.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü boş bırakılan parametre örneği\for döngüsü boş bırakılan parametre örneği\obj\Debug\for döngüsü boş bırakılan parametre örneği.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü boş bırakılan parametre örneği\for döngüsü boş bırakılan parametre örneği\obj\Debug\for döngüsü boş bırakılan parametre örneği.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü boş bırakılan parametre örneği\for döngüsü boş bırakılan parametre örneği\obj\Debug\for döngüsü boş bırakılan parametre örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\for döngüsü boş bırakılan parametre örneği\for döngüsü boş bırakılan parametre örneği\obj\Debug\for döngüsü boş bırakılan parametre örneği.pdb

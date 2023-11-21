@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operatörler örnek2 &&\mantıksal operatörler örnek2 &&\bin\Debug\mantıksal operatörler örnek2 &&.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operatörler örnek2 &&\mantıksal operatörler örnek2 &&\bin\Debug\mantıksal operatörler örnek2 &&.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operatörler örnek2 &&\mantıksal operatörler örnek2 &&\bin\Debug\mantıksal operatörler örnek2 &&.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operatörler örnek2 &&\mantıksal operatörler örnek2 &&\obj\Debug\mantıksal operatörler örnek2 &&.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operatörler örnek2 &&\mantıksal operatörler örnek2 &&\obj\Debug\mantıksal operatörler örnek2 &&.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operatörler örnek2 &&\mantıksal operatörler örnek2 &&\obj\Debug\mantıksal operatörler örnek2 &&.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\mantıksal operatörler örnek2 &&\mantıksal operatörler örnek2 &&\obj\Debug\mantıksal operatörler örnek2 &&.pdb

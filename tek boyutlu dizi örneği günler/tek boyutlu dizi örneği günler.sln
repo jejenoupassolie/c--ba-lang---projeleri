@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tek boyutlu dizi örneği günler", "tek boyutlu dizi örneği günler\tek boyutlu dizi örneği günler.csproj", "{36C8A2E1-5AA6-4796-80A9-0CFF16972B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C8A2E1-5AA6-4796-80A9-0CFF16972B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C8A2E1-5AA6-4796-80A9-0CFF16972B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C8A2E1-5AA6-4796-80A9-0CFF16972B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C8A2E1-5AA6-4796-80A9-0CFF16972B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30924853-C8EA-4331-BFA5-5DD7E6DCB5B7}
+	EndGlobalSection
+EndGlobal

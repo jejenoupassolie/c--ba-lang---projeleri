@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ıf else örnek1 ortalama hesaplama", "ıf else örnek1 ortalama hesaplama\ıf else örnek1 ortalama hesaplama.csproj", "{8D4DA14C-05AE-4860-A959-BCE62C7E1532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4DA14C-05AE-4860-A959-BCE62C7E1532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4DA14C-05AE-4860-A959-BCE62C7E1532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4DA14C-05AE-4860-A959-BCE62C7E1532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4DA14C-05AE-4860-A959-BCE62C7E1532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B365939-C0F6-4054-A65D-C936BE242FC5}
+	EndGlobalSection
+EndGlobal

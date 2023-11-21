@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayreverse örneği\arrayreverse örneği\bin\Debug\arrayreverse örneği.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayreverse örneği\arrayreverse örneği\bin\Debug\arrayreverse örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayreverse örneği\arrayreverse örneği\bin\Debug\arrayreverse örneği.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayreverse örneği\arrayreverse örneği\obj\Debug\arrayreverse örneği.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayreverse örneği\arrayreverse örneği\obj\Debug\arrayreverse örneği.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayreverse örneği\arrayreverse örneği\obj\Debug\arrayreverse örneği.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\arrayreverse örneği\arrayreverse örneği\obj\Debug\arrayreverse örneği.pdb

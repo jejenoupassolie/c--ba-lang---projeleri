@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ToString ile tür dönüşümü örnek2\ToString ile tür dönüşümü örnek2\bin\Debug\ToString ile tür dönüşümü örnek2.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ToString ile tür dönüşümü örnek2\ToString ile tür dönüşümü örnek2\bin\Debug\ToString ile tür dönüşümü örnek2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ToString ile tür dönüşümü örnek2\ToString ile tür dönüşümü örnek2\bin\Debug\ToString ile tür dönüşümü örnek2.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ToString ile tür dönüşümü örnek2\ToString ile tür dönüşümü örnek2\obj\Debug\ToString ile tür dönüşümü örnek2.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ToString ile tür dönüşümü örnek2\ToString ile tür dönüşümü örnek2\obj\Debug\ToString ile tür dönüşümü örnek2.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ToString ile tür dönüşümü örnek2\ToString ile tür dönüşümü örnek2\obj\Debug\ToString ile tür dönüşümü örnek2.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\ToString ile tür dönüşümü örnek2\ToString ile tür dönüşümü örnek2\obj\Debug\ToString ile tür dönüşümü örnek2.pdb

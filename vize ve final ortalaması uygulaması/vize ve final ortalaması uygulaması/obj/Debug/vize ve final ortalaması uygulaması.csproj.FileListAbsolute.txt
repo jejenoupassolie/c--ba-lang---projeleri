@@ -1,0 +1,7 @@
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\vize ve final ortalaması uygulaması\vize ve final ortalaması uygulaması\bin\Debug\vize ve final ortalaması uygulaması.exe.config
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\vize ve final ortalaması uygulaması\vize ve final ortalaması uygulaması\bin\Debug\vize ve final ortalaması uygulaması.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\vize ve final ortalaması uygulaması\vize ve final ortalaması uygulaması\bin\Debug\vize ve final ortalaması uygulaması.pdb
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\vize ve final ortalaması uygulaması\vize ve final ortalaması uygulaması\obj\Debug\vize ve final ortalaması uygulaması.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\vize ve final ortalaması uygulaması\vize ve final ortalaması uygulaması\obj\Debug\vize ve final ortalaması uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\vize ve final ortalaması uygulaması\vize ve final ortalaması uygulaması\obj\Debug\vize ve final ortalaması uygulaması.exe
+C:\Users\emine\OneDrive\Masaüstü\Yeni klasör\vize ve final ortalaması uygulaması\vize ve final ortalaması uygulaması\obj\Debug\vize ve final ortalaması uygulaması.pdb
